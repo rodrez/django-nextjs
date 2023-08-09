@@ -58,13 +58,15 @@ pnpm i
 Start the development server:
 
 ```bash
-    yarn dev
-    # or
-    npm run dev
+yarn dev
+# or
+npm run dev
+# or
+pnpm run dev
 ```
 ## Features
 
-    Pre-configured connection settings between Django and Next.js.
+Pre-configured connection settings between Django and Next.js.
 
 ## Contribution
 
